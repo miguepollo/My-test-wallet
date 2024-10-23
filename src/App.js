@@ -175,7 +175,6 @@ function App() {
 }
 
 console.timeEnd('Renderizado de App');
-return App;
 
 console.timeEnd('Inicialización de App');
 
